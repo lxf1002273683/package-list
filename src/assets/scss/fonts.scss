@@ -1,0 +1,26 @@
+@font-face{
+  font-family: DINFont1;
+  src: url('../../assets/fonts/DIN-Alternate-Bold.ttf');
+}
+
+.font_alternate{
+  font-family: DINFont1;
+}
+
+@font-face{
+  font-family: DINFont2;
+  src: url('../../assets/fonts/DIN-Condensed-Bold.ttf');
+}
+
+.font_condensed{
+  font-family: DINFont2;
+}
+
+@font-face{
+  font-family: DINFontFzs;
+  src: url('../../assets/fonts/fzs.ttf');
+}
+
+.font_fzs{
+  font-family: DINFontFzs;
+}
